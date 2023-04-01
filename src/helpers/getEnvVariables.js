@@ -1,5 +1,5 @@
 export const getEnvVariables = () => {
-    import.meta.env;
+    // import.meta.env;
 
     return {
         VITE_MODE: import.meta.env.VITE_MODE,
